@@ -1,9 +1,9 @@
 
-###  DATE: 
+###  DATE: 25.09.2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: SANJAY SIVARAMAKRISHNAN M
+###  ROLL NO : 212223240151
+###  DEPARTMENT: AIML
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
